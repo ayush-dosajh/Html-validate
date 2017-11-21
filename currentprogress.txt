@@ -1,0 +1,14 @@
+UI ---done running;
+
+autocomplete/ text highlight ----- not running;
+
+validator --- done running;
+
+
+minization------needs work;
+
+
+find , open and others --- done;
+
+
+About --- done;
