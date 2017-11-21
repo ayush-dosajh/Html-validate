@@ -21,4 +21,13 @@ Or run ant on the extracted folder a dist folder will be created run the file(no
 3. github - UI based
 4. Jar-  in src/ directory type  jar cmvf ../manifest.mf ../SimpleJavaTextEditor.jar simplejavatexteditor/*.class
 5.  Eclipse or Netbeans or terminal+Editor whichever comfortable to you.
+6. error-prone - gives possible java errors in form of errors.
+type in home ie default terminal location.
+java -Xbootclasspath/p:error_prone_ant-2.1.1.jar com.google.errorprone.ErrorProneCompiler /home/ayush/Documents/textedit/src/simplejavatexteditor/UI.java
+
+
+extra------
+7. maven(instead of ant) instead of javac only for compiling.
+in src type ---------- mvn compile.
+
 
