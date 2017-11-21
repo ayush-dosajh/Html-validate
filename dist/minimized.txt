@@ -1,0 +1,1 @@
+<!DOCTYPEhtml><html><body><h2>UnorderedListwithCircleBullets</h2><ulstyle="list-style-type:circle"><li>Coffee</li><li>Tea</li><li>Milk</li></ul></body></html>
