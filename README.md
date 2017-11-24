@@ -30,4 +30,5 @@ extra------
 7. maven(instead of ant) instead of javac only for compiling.
 in src directory type ---------- mvn compile.
 
-
+Profling tool:
+javac -J-agentlib:hprof=heap=sites Hello.java
